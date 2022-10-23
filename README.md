@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Al</h1>
 <h3 align="center">A #digital superhero who loves a good #challenge. Equipped with #design-thinking and a proven track record in immersive #design and #development I'm set to spread joy and ideas, and #disrupt the "norm"; one industry at a time🤩 Anywhere in the #world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinemoses&label=Profile%20views&color=0e75b6&style=flat" alt="alvinemoses" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvinemoses" alt="alvinemoses" /></a> </p>
-
 - 📫 How to reach me **alvin.mckyle@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

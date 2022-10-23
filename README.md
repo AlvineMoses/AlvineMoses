@@ -122,6 +122,7 @@ if (codeWorking){
 ```
 <h2 align="left">Current GitHub Stats 📊</h2>
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinemoses&show_icons=true&locale=en&layout=compact" alt="alvinemoses" /> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&locale=en" alt="alvinemoses" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&locale=en" alt="alvinemoses" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinemoses&show_icons=true&locale=en&layout=compact" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinemoses&" alt="alvinemoses" /></p>

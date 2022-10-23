@@ -33,9 +33,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Automation:</h3>
-<p align="left">
-<a href="https://ifttt.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>
+<h3 align="right">Automation:</h3>
+<p align="right">
+<a href="https://ifttt.com/" target="_blank"> <img align="right" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>
 </p> 
 
 <h3 align="left">Design Tools:</h3>

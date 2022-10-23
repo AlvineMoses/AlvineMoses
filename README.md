@@ -120,7 +120,6 @@ if (codeWorking){
         }
 // - Alvine Moses
 ```
-<h2 align="left">Current GitHub Stats 📊</h2>
 
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact)
@@ -129,5 +128,8 @@ if (codeWorking){
 <p align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&locale=en" alt="alvinemoses" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinemoses&show_icons=true&locale=en&layout=compact" /></p>
+ 
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=AlvineMoses&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinemoses&" alt="alvinemoses" /></p>

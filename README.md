@@ -19,10 +19,9 @@
 
 <h3 align="center">Or</h3>
 
-<h4 align="center">📫 Reach me via</h4> 
-<p align="center"><a href="mailto:alvin.mckyle@gmail.com" target="_blank"> Mail </a></p>
+<h4 align="center"><a href="mailto:alvin.mckyle@gmail.com" target="_blank">📫 Mail me</a></h4> 
 
-<h2 align="left">Tech Stack 💻 :</h2>
+<h2 align="center">Tech Stack 💻 :</h2>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -141,7 +140,7 @@ if (codeWorking){
 
 ---
 <p align="center">
-<img src="https://github.com/AlvineMoses/AlvineMoses/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/AlvineMoses/AlvineMoses/blob/main/assets/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=AlvineMoses&pretty=true)](https://github-visitor-counter-pro.vercel.app)

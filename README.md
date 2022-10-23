@@ -19,8 +19,8 @@
 
 <h3 align="center">Or</h3>
 
-<h4 align="center">📫 Reach me:</h4> 
-**alvin.mckyle@gmail.com** 
+<h4 align="center">📫 Reach me via</h4> 
+<p align="center"><a href="mailto:alvin.mckyle@gmail.com" target="_blank"> Mail </a></p>
 
 <h2 align="left">Tech Stack 💻 :</h2>
 

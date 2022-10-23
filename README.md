@@ -19,7 +19,7 @@
 
 <h3 align="center">Or</h3>
 
-- 📫 Reach me **alvin.mckyle@gmail.com**
+<h4 align="center">📫 Reach me: **alvin.mckyle@gmail.com**
 
 <h2 align="left">Tech Stack 💻 :</h2>
 

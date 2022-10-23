@@ -1,4 +1,4 @@
-[![Social banner for Al](https://github.com/AlvineMoses/AlvineMoses/blob/main/assets/header-banner-optimized.svg)]
+![Social banner for Al](https://github.com/AlvineMoses/AlvineMoses/blob/main/assets/header-banner-optimized.svg)
 
 <h1 align="center">Hi 👋, I'm Al</h1>
 <h3 align="center">A #digital superhero who loves a good #challenge. Equipped with #design-thinking and a proven track record in immersive #design and #development I'm set to spread joy and ideas, and #disrupt the "norm"; one industry at a time🤩 Anywhere in the #world.</h3>

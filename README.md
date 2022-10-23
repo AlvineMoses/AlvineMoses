@@ -121,6 +121,10 @@ if (codeWorking){
 // - Alvine Moses
 ```
 <h2 align="left">Current GitHub Stats 📊</h2>
+![Stats](https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinemoses&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
 <p align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&locale=en" alt="alvinemoses" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinemoses&show_icons=true&locale=en&layout=compact" /></p>

@@ -128,6 +128,20 @@ if (codeWorking){
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=AlvineMoses&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=AlvineMoses&date_format=j%20M%5B%20Y%5D)
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinemoses&" alt="alvinemoses" /></p>
+<!-- Dev in Progress -->
+## Latest Tweet 🐦 
+> This tool (tweet-integration) is not available publically, made this for personal use
+ 
+[![](https://tweet-img-pi.vercel.app/api?username=AlvineMoses)](https://twitter.com/AlvineMoses)
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/AlvineMoses/AlvineMoses/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=AlvineMoses&pretty=true)](https://github-visitor-counter-pro.vercel.app)
+

@@ -111,10 +111,17 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
-  
+ 
+``` java
+if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+// - Alvine Moses
+```
+<h2 align="left">Current GitHub Stats 📊</h2>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinemoses&show_icons=true&locale=en&layout=compact" alt="alvinemoses" /> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&locale=en" alt="alvinemoses" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinemoses&show_icons=true&locale=en&layout=compact" alt="alvinemoses" /></p>
-
-<p>&nbsp;&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&locale=en" alt="alvinemoses" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinemoses&" alt="alvinemoses" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinemoses&" alt="alvinemoses" /></p>

@@ -119,10 +119,7 @@ if (codeWorking){
             }
         }
 // - Alvine Moses
-```
-## GitHub Summary 📊                                              
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact)
-                                              
+```                       
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
@@ -130,6 +127,9 @@ if (codeWorking){
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=AlvineMoses&date_format=j%20M%5B%20Y%5D)
 
+## GitHub Summary 📊                                              
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact)
+                       
 <!-- Dev in Progress -->
 ## Latest Tweet 🐦 
 > This tool (tweet-integration) is not available publically, made this for personal use

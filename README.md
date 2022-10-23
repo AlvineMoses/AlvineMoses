@@ -120,9 +120,11 @@ if (codeWorking){
         }
 // - Alvine Moses
 ```
-
+## GitHub Summary 📊                                              
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact)
+                                              
 ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=alvinemoses&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 <p align="left">
